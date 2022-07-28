@@ -287,7 +287,7 @@
                         <constraints>
                             <constraint firstItem="GrC-Mg-KTg" firstAttribute="leading" secondItem="Ocv-dr-WMp" secondAttribute="leading" id="1S6-2G-cbL"/>
                             <constraint firstItem="GrC-Mg-KTg" firstAttribute="bottom" secondItem="Ocv-dr-WMp" secondAttribute="bottom" id="LGe-Yy-RJK"/>
-                            <constraint firstAttribute="trailing" secondItem="GrC-Mg-KTg" secondAttribute="trailing" id="cho-6b-MCO"/>
+                            <constraint firstItem="GrC-Mg-KTg" firstAttribute="rightMargin" secondItem="Ocv-dr-WMp" secondAttribute="right" id="cho-6b-MCO"/>
                             <constraint firstItem="GrC-Mg-KTg" firstAttribute="top" secondItem="Ocv-dr-WMp" secondAttribute="top" id="npz-Tp-ueM"/>
                         </constraints>
                     </view>
